@@ -1,2 +1,3 @@
 # BasicRpg
-aAattempt to make a full game 
+A rpg made in tic 80
+In development
